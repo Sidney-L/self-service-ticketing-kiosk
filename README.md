@@ -2,7 +2,7 @@
 A self-service ticketing kiosk for cinemas -developing the software using Agile Methods
 
 Usage: 
-Before using you need to decompress the ZIP format file to get the source code and API Javadoc files. The program can be activated by cmd windows.
+Clone the repo to your own pc. The program can be activated by cmd windows.
 
 1. Change folder location  to where the “src” folder is located using command as “cd+location”.
 Next, to compile all the files. Type in “javac *.java” then press “enter”.
